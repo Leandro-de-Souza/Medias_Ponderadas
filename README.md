@@ -1,0 +1,2 @@
+# Medias_Ponderadas
+O referido programa calcula e exibe médias ponderadas. O código em questão foi escrito tomando como exemplo um número de casos de teste qualquer onde para cada caso são digitados três valores reais,  nos quais o primeiro tem peso 2, o segundo tem peso 3 e o terceiro peso 5. Vale lembrar que a média ponderada é a soma de todos os valores multiplicados pelo seu respectivo peso, dividida pela soma dos pesos. O programa é disponibilizado nas linguagens C, C++, Java, C# e Python.
